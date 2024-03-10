@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora Fabian - Yohan</string>
+
+    <string name="label_signo_div"><![CDATA[/]]></string>
+    <string name="label_signo_borrar"><![CDATA[<=]]></string>
+
+</resources>
